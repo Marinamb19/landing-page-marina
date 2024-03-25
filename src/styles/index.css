@@ -1,12 +1,15 @@
-
-/* 
-
-    You can write your own styles here...
+.jumbotron {
+    width: 85%;
+    height: 50%;
+    background: rgb(233, 231, 231);
+    margin-left: auto;
+    margin-right: auto;
     
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+}
 
-*/
+.pictures {
+    margin-left: auto;
+    margin-right: auto;
+    width: 87%;
+    height: 50%;
+}
